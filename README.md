@@ -1,2 +1,2 @@
-# scaffolding-webpack-project
-A simple scaffolding for webpack based projects
+# Input type checker
+A simple project to practice CSS/Vanilla JS (Part 5)
